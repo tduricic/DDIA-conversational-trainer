@@ -1,0 +1,322 @@
+[
+    {
+        "text": "Welcome to the Decent Espresso Machine, \nand I want to show you how to make your \nfirst espresso on this machine.",
+        "start": 0.159,
+        "duration": 5.21
+    },
+    {
+        "text": "So the first thing you want to do after you run the \ntablet is to pick the \"Gentle and Sweet\" profile.",
+        "start": 5.4,
+        "duration": 5.58
+    },
+    {
+        "text": "Now, that's the one I recommend \nbecause it's the easiest shot to do well.",
+        "start": 10.98,
+        "duration": 4.4
+    },
+    {
+        "text": "So here we are. We hit the \"Settings\" button, \nwe hit \"Presets\", and here it is, \"Gentle and Sweet.\"",
+        "start": 15.38,
+        "duration": 6.14
+    },
+    {
+        "text": "So tap on that one in order to load it.",
+        "start": 21.52,
+        "duration": 2.4
+    },
+    {
+        "text": "You can see that we have all sorts of \nother ones, and you can get to those later \nonce you start having acceptable espresso.",
+        "start": 23.92,
+        "duration": 7.06
+    },
+    {
+        "text": "First things first; make your first decent espresso, \nthen start fiddling after that.",
+        "start": 30.98,
+        "duration": 4.34
+    },
+    {
+        "text": "So let's hit OK.",
+        "start": 35.32,
+        "duration": 1.94
+    },
+    {
+        "text": "We're going to load up 18 grams into our \nportafilter basket and then make an espresso.",
+        "start": 37.26,
+        "duration": 5.08
+    },
+    {
+        "text": "I'm using a funnel so the coffee doesn't go overboard,",
+        "start": 43.06,
+        "duration": 3.16
+    },
+    {
+        "text": "and one thing you'll see in all my \nvideos is I'm always using the scale.",
+        "start": 46.22,
+        "duration": 3.36
+    },
+    {
+        "text": "I can't recommend enough that if you do not use \na scale, you will not progress in making espresso.",
+        "start": 49.58,
+        "duration": 5.6
+    },
+    {
+        "text": "Put another way: get a scale, \nget better at making espresso.",
+        "start": 55.18,
+        "duration": 2.78
+    },
+    {
+        "text": "So here I am weighing my coffee dose, and I will \nalso be weighing how much coffee goes into the cup.",
+        "start": 57.96,
+        "duration": 5.849
+    },
+    {
+        "text": "Generally, you'll want a ratio between the two. \nI'm going to go for a 2:1 ratio, which is typical:",
+        "start": 64.2,
+        "duration": 5.78
+    },
+    {
+        "text": "18 grams here in the coffee puck, 36 grams in the cup.",
+        "start": 69.98,
+        "duration": 5.66
+    },
+    {
+        "text": "That's what my coffee puck looks like \nbefore I've tamped it.",
+        "start": 81.3,
+        "duration": 4.4
+    },
+    {
+        "text": "The goal is to try and get the grounds distributed \nin an even way around the basket.",
+        "start": 85.7,
+        "duration": 5.7
+    },
+    {
+        "text": "This is the decent tamper, and our tamping \ncradle just makes things a little easier.",
+        "start": 93.24,
+        "duration": 5.52
+    },
+    {
+        "text": "Also, you want to make absolutely sure \nthat you've got a level tamp.",
+        "start": 100.0,
+        "duration": 3.68
+    },
+    {
+        "text": "There's a little banana shaped piece of metal there; I'm \njust going to go slide in, I can feel and hear it lock in,",
+        "start": 103.68,
+        "duration": 5.72
+    },
+    {
+        "text": "and then just pull it tight like that. You do \nnot need to lock it in with a lot of muscle.",
+        "start": 109.4,
+        "duration": 5.26
+    },
+    {
+        "text": "Finally hit the start button in \norder to make your espresso.",
+        "start": 116.58,
+        "duration": 2.86
+    },
+    {
+        "text": "At this point, the machine is warming up and getting \nthe espresso water temperature just perfect.",
+        "start": 119.44,
+        "duration": 7.7
+    },
+    {
+        "text": "Now the espresso has started, and you can \nsee the flow here during preinfusion \nand the green line is our pressure.",
+        "start": 129.6,
+        "duration": 8.18
+    },
+    {
+        "text": "There's no pressure yet because \nthe puck is still absorbing water.",
+        "start": 137.78,
+        "duration": 3.08
+    },
+    {
+        "text": "And here we are: absorbing water, pressure going up, \nflow going down, and we're making our espresso.",
+        "start": 140.86,
+        "duration": 6.78
+    },
+    {
+        "text": "I'm going to mind the scale here because \nI'm going to manually stop this now.",
+        "start": 148.58,
+        "duration": 4.98
+    },
+    {
+        "text": "Okay?",
+        "start": 154.96,
+        "duration": 0.5
+    },
+    {
+        "text": "So in the end I ended up at 29.5 grams \nof coffee in the cup.",
+        "start": 155.48,
+        "duration": 4.2
+    },
+    {
+        "text": "I was aiming for 32, that's certainly close enough.",
+        "start": 159.68,
+        "duration": 3.98
+    },
+    {
+        "text": "And that's what your first decent \nespresso shot looks like.",
+        "start": 163.66,
+        "duration": 4.86
+    },
+    {
+        "text": "Now, going back here on screen, I can tap to zoom and \nyou can see that my pressure rose up here to 6 bar,",
+        "start": 168.52,
+        "duration": 9.22
+    },
+    {
+        "text": "the flow decreased down to 2.5, my \ntotal shot time was 23 seconds.",
+        "start": 177.74,
+        "duration": 8.12
+    },
+    {
+        "text": "Now, that's a bit on the fast side,",
+        "start": 185.86,
+        "duration": 2.62
+    },
+    {
+        "text": "so what I'd recommend as my next experiment \n- I'm going to make it with you here -",
+        "start": 188.48,
+        "duration": 4.7
+    },
+    {
+        "text": "is I'm just going to add a little bit of coffee, \nrather than messing with the grind,",
+        "start": 193.18,
+        "duration": 4.72
+    },
+    {
+        "text": "because the shot looks basically okay.",
+        "start": 197.9,
+        "duration": 2.26
+    },
+    {
+        "text": "I'm going to put 19 grams of coffee in and just see \nif I can get that flow rate to come down a little bit",
+        "start": 200.16,
+        "duration": 5.4
+    },
+    {
+        "text": "The other thing to notice is that you see \nmy temperature here started out quite low,",
+        "start": 205.56,
+        "duration": 5.3
+    },
+    {
+        "text": "And the reason is that I took my portafilter out, \nand I took quite a long time washing it out \nbefore I put the coffee in.",
+        "start": 210.86,
+        "duration": 6.9
+    },
+    {
+        "text": "So the faster that you work, the more likely that \ntemperature is going to look good at the beginning.",
+        "start": 217.76,
+        "duration": 6.0
+    },
+    {
+        "text": "We have 19.2 grams.",
+        "start": 225.06,
+        "duration": 2.36
+    },
+    {
+        "text": "Now in here, and I'm tapping this and I'm trying to work \nhard I can feel that the portafilter is nice and hot.",
+        "start": 227.42,
+        "duration": 5.84
+    },
+    {
+        "text": "Now, you'll see on discussions on the internet that \nif you don't get this level, your flow rate will be faster",
+        "start": 233.26,
+        "duration": 5.08
+    },
+    {
+        "text": "because the water is always going to go through the \nweakest part. And this is, in fact, not a great puck;",
+        "start": 238.34,
+        "duration": 5.48
+    },
+    {
+        "text": "it's a little bit lower on the sides.",
+        "start": 243.82,
+        "duration": 2.8
+    },
+    {
+        "text": "Whole other subject to conversation how \nto improve that but let's go ahead now.",
+        "start": 246.62,
+        "duration": 4.16
+    },
+    {
+        "text": "I'm not trying to make the world's best coffee, \nwe're trying to make a decent one,",
+        "start": 250.78,
+        "duration": 3.58
+    },
+    {
+        "text": "and let's see how this plays out.",
+        "start": 254.36,
+        "duration": 3.34
+    },
+    {
+        "text": "So here's the water going in, our pressure is staying low.",
+        "start": 260.96,
+        "duration": 4.38
+    },
+    {
+        "text": "You can also look in the bottom of the basket, and \nyou can see using this mirror what it looks like",
+        "start": 265.34,
+        "duration": 5.36
+    },
+    {
+        "text": "Okay?",
+        "start": 271.14,
+        "duration": 0.56
+    },
+    {
+        "text": "And here our flow rate came down just a little bit;",
+        "start": 271.7,
+        "duration": 2.86
+    },
+    {
+        "text": "we're at about 2.5 ml/s on the previous \none and now we're at 2 ml/s.",
+        "start": 274.56,
+        "duration": 5.84
+    },
+    {
+        "text": "Now, that's firmly in the good espresso flow world, \nand I'm pretty happy with that.",
+        "start": 280.4,
+        "duration": 5.8
+    },
+    {
+        "text": "So the recipe I've decided for this espresso is \n19 grams of coffee with about 32 grams coming out.",
+        "start": 286.2,
+        "duration": 8.68
+    },
+    {
+        "text": "You can see that it looks quite pretty.",
+        "start": 295.44,
+        "duration": 2.44
+    },
+    {
+        "text": "Does not smell acidic at all, I mostly get \nkind of chocolatey vanilla notes.",
+        "start": 299.5,
+        "duration": 4.42
+    },
+    {
+        "text": "This is a medium roast, so that's \nwhat I would expect from it.",
+        "start": 303.92,
+        "duration": 3.24
+    },
+    {
+        "text": "And there you go, you've made your \nfirst decent espresso. The next thing you \ncan do is start playing with your grind:",
+        "start": 307.16,
+        "duration": 5.52
+    },
+    {
+        "text": "different beans, different doses, and of \ncourse all these different presets;",
+        "start": 312.68,
+        "duration": 4.96
+    },
+    {
+        "text": "all the espresso machines and philosophies \nof the world are available to you \non your Decent Espresso Machine.",
+        "start": 317.64,
+        "duration": 5.96
+    },
+    {
+        "text": "Enjoy!",
+        "start": 323.8,
+        "duration": 2.0
+    }
+]
